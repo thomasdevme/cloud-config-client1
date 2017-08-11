@@ -1,0 +1,2 @@
+spring.application.name: db
+spring.cloud.config.uri: http://localhost:9200
